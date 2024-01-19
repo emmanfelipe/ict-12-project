@@ -1,0 +1,85 @@
+body{
+    background-color: gray;
+}
+
+.name{
+    font-size: large;
+    font-weight: bold;
+}
+
+.OBJECTIVES{
+    word-spacing: 2px;
+}
+
+.border-1{
+    border-radius: 15px 50px 30px;
+    background-color: rgb(111, 235, 235);
+    padding: 20px;
+}
+
+.OBJ{
+    border-radius: 25px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.PERSONAL{
+    border-radius: 15px 50px 30px;
+    background:rgb(111, 235, 235);
+    padding: 25px;
+    margin-right: 25%;
+    margin-left: 25%;
+    text-align: center;
+    
+}
+
+.border-2{
+    border-radius: 15px 50px 30px;
+    background:rgb(111, 235, 235);
+    padding: 30px;
+    margin-left: 25%;
+    margin-right: 25%;
+
+}
+
+td{
+    background-color: rgba(75, 138, 255, 0.822);
+}
+
+.personal-2{
+    border-radius: 15px 50px 30px;
+    background: gray;
+    padding: 15px;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    
+}
+
+.border-text{
+    border: 2px solid black;
+    border-radius: 5px;
+    background: rgb(12, 206, 255);
+    padding: 20px;
+}
+
+.italic-text{
+    font-style: italic;
+}
+
+.applicant{
+    text-align: right;
+    padding-right: 15px;
+    padding-top: 30px;
+    font-weight: bold;
+}
+
+img{
+    width: 13%;
+    float: right;
+    padding-right: 20px;
+    border-radius: 100px;
+   
+
+
+}
